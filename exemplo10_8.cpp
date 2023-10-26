@@ -5,7 +5,7 @@
 using namespace std;
 
 int main (){
-	string nome = "João de Deus";
+	string nome = "Jorge Mario Bergoglio Franscisco";
 	int p = 10;
 	float cra = 10.0;
 
