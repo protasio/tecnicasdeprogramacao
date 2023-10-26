@@ -6,8 +6,8 @@ using namespace std;
 
 int main (){
 	string nome = "Jorge Mario Bergoglio Franscisco";
-	int p = 10;
-	float cra = 10.0;
+	int p = 10
+	float cra = 9;
 
     ofstream saida("teste.txt", ios::app);
 	if( !saida ){cout << "Erro ao abrir o arquivo!"; return 1;}
