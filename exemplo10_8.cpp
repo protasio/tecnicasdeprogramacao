@@ -8,6 +8,7 @@ int main (){
 	string nome = "Jorge Mario Bergoglio Franscisco";
 	int p = 10
 	float cra = 9;
+	// mudei aqui
 
     ofstream saida("teste.txt", ios::app);
 	if( !saida ){cout << "Erro ao abrir o arquivo!"; return 1;}
